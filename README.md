@@ -97,6 +97,6 @@ I made this repository as *a reference*. Please do not copy paste the solution a
 
  
 ## 📝 License
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The gem is available as open source under the terms of the [GPL-3.0 License](https://www.gnu.org/licenses/).
  
 -----------------------------------------------------------------------------------------------------------------
