@@ -49,40 +49,46 @@ flowchart TD
 ### AI for Medical Diagnosis
 
 In the first course of the AI for Medicine Specialization, you will:
-- Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
+- You will practice classifying diseases on chest x-rays using a neural network.
+- You will practice implementing standard evaluation metrics to see how well a model performs in diagnosing diseases.
+- You will prepare 3D MRI data, implement an appropriate loss function for image segmentation, and apply a pre-trained U-net model to segment tumor regions in 3D brain MRI images.
 
-* [AI for Medical Diagnosis](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-1-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
+* [AI for Medical Diagnosis](https://github.com/shantanu1109/Coursera-DeepLearning.AI-AI-FOR-MEDICINE-SPECIALIZATION/tree/main/Course-1-AI%20for%20Medical%20Diagnosis)
 
 ### COURSE 2
 ### AI for Medical Prognosis
 
 In the second course of the AI for Medicine Specialization, you will:
-- Use dynamic programming, hidden Markov models, and word embeddings to implement autocorrect, autocomplete & identify part-of-speech tags for words.
+- Walk through examples of prognostic tasks.
+- Apply tree-based models to estimate patient survival rates.
+- Navigate practical challenges in medicine like missing data. 
 
-* [AI for Medical Prognosis](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-2-Natural%20Language%20Processing%20with%20Probabilistic%20Models)
+* [AI for Medical Prognosis](https://github.com/shantanu1109/Coursera-DeepLearning.AI-AI-FOR-MEDICINE-SPECIALIZATION/tree/main/Course-2-AI%20for%20Medical%20Prognosis)
 
 ### COURSE 3
 ### AI For Medical Treatment
 In the third course of the AI for Medicine Specialization, you will:
-- Use recurrent neural networks, LSTMs, GRUs & Siamese networks in Trax for sentiment analysis, text generation & named entity recognition.
+- Estimate treatment effects using data from randomized control trials
+- Explore methods to interpret diagnostic and prognostic models
+- Apply natural language processing to extract information from unstructured medical data
 
-* [AI For Medical Treatment](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-3-Natural%20Language%20Processing%20with%20Sequence%20Models)
+* [AI For Medical Treatment](https://github.com/shantanu1109/Coursera-DeepLearning.AI-AI-FOR-MEDICINE-SPECIALIZATION/tree/main/Course-3-AI%20For%20Medical%20Treatment)
 
 -------------------------------------------------------------------------------------------------------------
 
 ## Certificate
 
-1. [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/verify/32C5MY5Q8HGL)
-2. [AI for Medical Prognosis](https://www.coursera.org/account/accomplishments/verify/ZPA6R3Q7CGQT)
-3. [AI For Medical Treatment](https://www.coursera.org/account/accomplishments/verify/NRECCG8ZHAQC)
-4. [Natural Language Processing Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/VYCCGB737HN3)
+1. [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/FVE3F7MAHFY9)
+2. [AI for Medical Prognosis](https://www.coursera.org/account/accomplishments/certificate/DTCL25KGDUMF)
+3. [AI for Medical Treatment](https://www.coursera.org/account/accomplishments/certificate/22MZ6RTJHQ3C)
+4. [AI for Medicine Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/certificate/ZDHX94KGVZ7Q)
 
 --------------------------------------------------------------------------------------------------------------
 
 ## References
-1. [AI for Medical Diagnosis](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
-2. [AI for Medical Prognosis](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
-3. [AI For Medical Treatment](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
+1. [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine)
+2. [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis?specialization=ai-for-medicine)
+3. [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment?specialization=ai-for-medicine)
 
 ----------------------------------------------------------------------------------------------------------------
 
